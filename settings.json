@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Romdul-kcfK.aternos.me",
+    "ip": Romdul-kcfK.aternos.me,
     "port":  36145,
     "version": "1.21.11"
   },
